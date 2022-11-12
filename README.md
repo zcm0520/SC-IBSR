@@ -2,4 +2,4 @@
 
 ## Introduction
 
-The codes and pre-traiend models will be shared soon. Please follow our updates.
+The codes and pre-traiend models will public once the paper is accepted.
